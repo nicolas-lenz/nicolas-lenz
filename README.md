@@ -72,7 +72,12 @@ const Nicolas = {
     "Build useful and well-structured applications 🚀"
 }
 ⚡ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,python,flask,fastapi,git,github,vscode&perline=9"/> </div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,flask,git,github,vscode&perline=8"/>
+
+</div>
 🚀 Featured Projects
 🚀 Project	💡 Description
 📚 StudyFlow	Web application focused on organizing studies, tasks and progress
