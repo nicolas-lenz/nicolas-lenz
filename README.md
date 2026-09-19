@@ -12,7 +12,7 @@
 
 ```bash
 ╭────────────────────────────╮
-│     NICOLAS SYSTEM v1.0    │
+│       NICOLAS SYSTEM       │
 ╰────────────────────────────╯
 
 Initializing system...
