@@ -162,7 +162,7 @@ Always learning. Always building. 🚀
 <div align="center">
 
 <a href="https://github.com/nicolas-lenz">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
 </a>
 
 </div>
